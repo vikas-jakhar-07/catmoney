@@ -1,4 +1,3 @@
-import React from 'react'
 import Paragraph from '../common/Paragraph'
 import { WHAT_CAT_MONEY_DATA_LIST } from '../common/Helper'
 import jackpot from "../../assets/images/webp/jackpot.webp";
